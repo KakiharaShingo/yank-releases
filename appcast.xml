@@ -6,6 +6,20 @@
     <language>ja</language>
     <!--ITEMS-->
     <item>
+      <title>Version 1.2.1</title>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.5</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h2>Yank 1.2.1</h2>
+<ul>
+  <li>表示中のタブを保持したまま、新しくコピーした内容を貼り付け対象にします。タブ内の項目を選ぶと、その項目へ貼り付け対象が切り替わります。</li>
+  <li>貼り付け対象が表示中のタブにない場合も、対象を確認してReturnまたはクリックで貼り付けられます。</li>
+  <li>コピー直後にパネルを開いた場合も、最新のクリップボード内容をすぐに履歴へ取り込むよう改善しました。</li>
+</ul>]]></description>
+      <pubDate>Mon, 05 Oct 2026 18:47:27 +0900</pubDate>
+      <enclosure url="https://github.com/KakiharaShingo/yank-releases/releases/download/v1.2.1/Yank-1.2.1.zip" sparkle:edSignature="6flrzFyqwl7k4dOeMRiVweUvsQ+yVatLskJRS3eLFU7rEFCfRgaba/11C3TxhkOM8Ki2ua3JScVjguguU2ctAw==" length="4332636" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2</title>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
